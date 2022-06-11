@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is Xu Chen, currently an undergraduate student at Lehigh University.
+
 <!--
 **xuc323/xuc323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
