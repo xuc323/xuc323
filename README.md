@@ -11,6 +11,9 @@ This is Xu Chen, currently an undergraduate student at Lehigh University. I'm al
   - Tailwind CSS
 - 😄 Pronouns: he, his, him
 - 📫 How to reach me: xuchen0728@icloud.com
+- Skills:
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
 **xuc323/xuc323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
